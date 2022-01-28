@@ -1,0 +1,6 @@
+mlflow
+cffi==1.14.0
+keras==2.4.3
+pillow==7.2.0
+tblib==1.6.0
+tensorflow==2.5.0
